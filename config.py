@@ -44,8 +44,6 @@ else:
     
     # Cookies (paste your cookies here as Python list)
     ORANGE_COOKIES = [
-        # Paste your cookies here in the same format
-[
   {
     "domain": ".orangecarrier.com",
     "expirationDate": 1816656515.140008,
