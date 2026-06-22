@@ -134,7 +134,7 @@ else:
     "storeId": "0",
     "value": "1"
   }
-]
+    ]
     
     # Settings
     MAX_ERRORS = 10
